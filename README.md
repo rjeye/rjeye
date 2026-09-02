@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Rohit Jayanti</h1>
-  <h3>Graduate Researcher @ Robotics Research Center (RRC), IIIT Hyderabad</h3>
+  <h3>PhD Researcher @ WILLOW Group, Inria Paris</h3>
   <p>
     <i>Geometric Foundation Models • 3D Scene Understanding • Topological Navigation</i>
   </p>
